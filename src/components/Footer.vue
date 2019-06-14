@@ -1,7 +1,7 @@
 <template>
   <footer class="app-footer">
-    <a >WZ</a> &copy; 2017 creativeLabs.
-    <span class="float-right">Powered by <a href="http://coreui.io">WZ</a></span>
+    <a >Talisman</a> &copy; 校园二手商品市场
+    <!-- <span class="float-right"></span> -->
   </footer>
 </template>
 <script>
